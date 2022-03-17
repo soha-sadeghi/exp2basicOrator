@@ -7,6 +7,10 @@ public class Exp2BasicOprator {
         int b=20;
         int c=0;
         c=a+b;
+        c++;
+        c+=4;
+        c/=5;
+        System.out.println(c);
 
 
     }
