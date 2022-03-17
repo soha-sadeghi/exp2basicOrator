@@ -10,7 +10,7 @@ public class Exp2BasicOprator {
         c++;
         c+=4;
         c/=5;
-        System.out.println(c);
+
 
 
     }
